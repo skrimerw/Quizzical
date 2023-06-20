@@ -1,0 +1,13 @@
+.question-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.answers {
+    display: flex;
+    gap: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
