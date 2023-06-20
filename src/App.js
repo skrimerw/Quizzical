@@ -200,7 +200,6 @@ export default function App() {
         <button className='btn' onClick={() => setIsStarted(true)}>Start quiz</button>
       </section>
       }
-      <div className='yellow-circle'></div>
     </main>
   )
 }

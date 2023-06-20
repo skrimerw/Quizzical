@@ -11,7 +11,6 @@ body {
   position: relative;
   margin: 0;
   background: #f1f5f8;
-  overflow-x: hidden;
 }
 
 .btn {
@@ -57,17 +56,6 @@ main{
 
 .start .btn {
   padding: 13px 45px;
-}
-
-.yellow-circle {
-  background-color: #fef9ca;
-  position: absolute;
-  border-radius: 50%;
-  width: 130vh;
-  height: 130vh;
-  top: -95vh;
-  right: -60vh;
-  z-index: -1;
 }
 
 .btn-container {
